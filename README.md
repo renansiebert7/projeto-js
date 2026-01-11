@@ -22,6 +22,6 @@ Mostrar apenas produtos veganos (X-Vegan, Big Vegano).
 
 Mostrar apenas produtos não-veganos.
 
-<a href="https://renansiebert7.github.io/projeto-js/">Acesse o Projeto Aqui</a>
+<a href="https://renansiebert7.github.io/projeto-js/">👉 Clique aqui para visualizar</a>
 
 <img src="https://github.com/renansiebert7/projeto-js/blob/master/assets/DESIGN%20READ.ME%20GIT%20HUB%20PROJETO%20FINAL%20JS.png?raw=true">
